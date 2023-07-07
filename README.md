@@ -3,6 +3,13 @@
 Welcome to your first day as a Flatiron Zookeeper!
 Today, we are being asked to create two domain models - a `Zoo` model and an `Animal` model and build out their relationships! Keep in mind that an animal can only be in one location at a time!
 
+## Setup
+
+`pipenv install` will make sure we have ipdb included in our environment.  
+`pipenv shell` allows us access to that environment.  
+`python debug.py` will stop the code with both classes in scope.  Test our your code by adding any needed variables into the `debug.py` file then when in `ipdb`, try out any functionality you've built!
+
+
 Here are some questions to consider:
 
 * What are your models?
