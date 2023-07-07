@@ -9,6 +9,7 @@ Today, we are being asked to create two domain models - a `Zoo` model and an `An
 `pipenv shell` allows us access to that environment.  
 `python debug.py` will stop the code with both classes in scope.  Test our your code by adding any needed variables into the `debug.py` file then when in `ipdb`, try out any functionality you've built!
 
+---
 
 Here are some questions to consider:
 
