@@ -1,5 +1,5 @@
-from lib.animal import *
-from lib.zoo import *
+from lib.animal import Animal
+from lib.zoo import Zoo
 
 # code here
 
@@ -12,5 +12,6 @@ from lib.zoo import *
 
 
 
-# do not remove 
+# ipdb allows us to stop our code & test stuff
 import ipdb; ipdb.set_trace()
+print( 'Thanks for visiting the zoo!' )
